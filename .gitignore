@@ -1,0 +1,7 @@
+db_data
+.env
+db.sqlite3
+docker-compose.yml
+Dockerfile
+_README.md
+
